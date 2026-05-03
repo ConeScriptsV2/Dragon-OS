@@ -1,0 +1,3 @@
+All files that get inserted here (DLL, MP4, MP3, PNG) never get loaded into Dragon OS!
+
+If you are looking to add files, consider moving it to Dragon OS\dlls instead for real time loading.

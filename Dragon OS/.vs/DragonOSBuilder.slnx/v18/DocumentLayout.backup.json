@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB4F441-AEEC-79E0-D014-84B35AC8848D}|DragonOSBuilder.csproj|c:\\users\\oalt5\\onedrive\\documents\\new project\\dragon os\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB4F441-AEEC-79E0-D014-84B35AC8848D}|DragonOSBuilder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB4F441-AEEC-79E0-D014-84B35AC8848D}|DragonOSBuilder.csproj|c:\\users\\oalt5\\onedrive\\documents\\new project\\dragon os\\bootapp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB4F441-AEEC-79E0-D014-84B35AC8848D}|DragonOSBuilder.csproj|solutionrelative:bootapp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB4F441-AEEC-79E0-D014-84B35AC8848D}|DragonOSBuilder.csproj|c:\\users\\oalt5\\onedrive\\documents\\new project\\dragon os\\uefisupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB4F441-AEEC-79E0-D014-84B35AC8848D}|DragonOSBuilder.csproj|solutionrelative:uefisupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB4F441-AEEC-79E0-D014-84B35AC8848D}|DragonOSBuilder.csproj|c:\\users\\oalt5\\onedrive\\documents\\new project\\dragon os\\nativeueficompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB4F441-AEEC-79E0-D014-84B35AC8848D}|DragonOSBuilder.csproj|solutionrelative:nativeueficompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BootApp.c",
+              "DocumentMoniker": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\BootApp.c",
+              "RelativeDocumentMoniker": "BootApp.c",
+              "ToolTip": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\BootApp.c",
+              "RelativeToolTip": "BootApp.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-02T00:22:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UefiSupport.cs",
+              "DocumentMoniker": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\UefiSupport.cs",
+              "RelativeDocumentMoniker": "UefiSupport.cs",
+              "ToolTip": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\UefiSupport.cs",
+              "RelativeToolTip": "UefiSupport.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T00:10:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NativeUefiCompiler.cs",
+              "DocumentMoniker": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\NativeUefiCompiler.cs",
+              "RelativeDocumentMoniker": "NativeUefiCompiler.cs",
+              "ToolTip": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\NativeUefiCompiler.cs",
+              "RelativeToolTip": "NativeUefiCompiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T00:09:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\oalt5\\OneDrive\\Documents\\New project\\Dragon OS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAF0FAAAAAAAAAADwv4oFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T00:05:23.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

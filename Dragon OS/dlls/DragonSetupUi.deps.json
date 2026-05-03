@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DragonSetupUi/1.0.0": {
+        "dependencies": {
+          "DragonOS.PluginApi": "1.0.0"
+        },
+        "runtime": {
+          "DragonSetupUi.dll": {}
+        }
+      },
+      "DragonOS.PluginApi/1.0.0": {
+        "runtime": {
+          "DragonOS.PluginApi.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DragonSetupUi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DragonOS.PluginApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
